@@ -4,7 +4,7 @@
 
 ## Demo video
 
-[Watch the video (Google Drive)](PASTE_DRIVE_LINK_HERE)
+https://drive.google.com/file/d/1HWQMn5NED8nF74KyP5TH7xYNvYwJiK2K/view?usp=sharing
 
 ## Run instructions
 
